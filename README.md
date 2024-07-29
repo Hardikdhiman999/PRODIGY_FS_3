@@ -11,4 +11,11 @@ I Developed a web application that allows administrators to perform CRUD (Create
 # Contact
 ![emp3](https://github.com/user-attachments/assets/ecdce149-f778-4d9e-ad01-dd0ef09ce01c)
 
+# Admin login
+![emp4](https://github.com/user-attachments/assets/a8bc3a83-491b-4ee6-9d59-c3974e746572)
+
 #Employee Details
+![emp5](https://github.com/user-attachments/assets/3745f1d8-374f-49ec-b711-605a36111df9)
+
+# Data are stored in Backend
+![emp7](https://github.com/user-attachments/assets/c7ad4a6a-084d-40d3-ace8-a07f7b591dcd)
