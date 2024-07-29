@@ -9,5 +9,6 @@ I Developed a web application that allows administrators to perform CRUD (Create
 ![emp2](https://github.com/user-attachments/assets/587e26c2-6ceb-4cc9-b0ef-6b3aee4700a4)
 
 # Contact
+![emp3](https://github.com/user-attachments/assets/ecdce149-f778-4d9e-ad01-dd0ef09ce01c)
 
-
+#Employee Details
